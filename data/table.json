@@ -1,0 +1,841 @@
+[
+  {
+    "depTime": "0800",
+    "operator": "Univ.",
+    "destination": "Eng. Cent.",
+    "arrTime": "0826"
+  },
+  {
+    "depTime": "0805",
+    "operator": "Univ.",
+    "destination": "Eng. East",
+    "arrTime": "0835"
+  },
+  {
+    "depTime": "0810",
+    "operator": "Univ.",
+    "destination": "Eng. East",
+    "arrTime": "0840"
+  },
+  {
+    "depTime": "0936",
+    "operator": "Univ.",
+    "destination": "Eng. East",
+    "arrTime": "1005"
+  },
+  {
+    "depTime": "0950",
+    "operator": "Univ.",
+    "destination": "Eng. Cent.",
+    "arrTime": "1017"
+  },
+  {
+    "depTime": "1000",
+    "operator": "Univ.",
+    "destination": "Eng. Cent.",
+    "arrTime": "1027"
+  },
+  {
+    "depTime": "0846",
+    "arrTime": "0908",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0854",
+    "arrTime": "0922",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0906",
+    "arrTime": "0928",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0914",
+    "arrTime": "0942",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0926",
+    "arrTime": "0948",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0934",
+    "arrTime": "1002",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0946",
+    "arrTime": "1008",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0954",
+    "arrTime": "1024",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1006",
+    "arrTime": "1028",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1014",
+    "arrTime": "1043",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1026",
+    "arrTime": "1048",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1034",
+    "arrTime": "1103",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1046",
+    "arrTime": "1108",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1054",
+    "arrTime": "1123",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1106",
+    "arrTime": "1128",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1114",
+    "arrTime": "1143",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1126",
+    "arrTime": "1148",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1134",
+    "arrTime": "1202",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1146",
+    "arrTime": "1208",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1154",
+    "arrTime": "1222",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1206",
+    "arrTime": "1228",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1214",
+    "arrTime": "1242",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1226",
+    "arrTime": "1248",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1234",
+    "arrTime": "1302",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1246",
+    "arrTime": "1308",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1254",
+    "arrTime": "1322",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1306",
+    "arrTime": "1328",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1314",
+    "arrTime": "1342",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1326",
+    "arrTime": "1348",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1334",
+    "arrTime": "1402",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1346",
+    "arrTime": "1408",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1354",
+    "arrTime": "1422",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1406",
+    "arrTime": "1428",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1414",
+    "arrTime": "1442",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1426",
+    "arrTime": "1448",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1434",
+    "arrTime": "1503",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1446",
+    "arrTime": "1508",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1454",
+    "arrTime": "1523",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1506",
+    "arrTime": "1528",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1514",
+    "arrTime": "1543",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1526",
+    "arrTime": "1548",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1534",
+    "arrTime": "1603",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1546",
+    "arrTime": "1608",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1555",
+    "arrTime": "1624",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1606",
+    "arrTime": "1628",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1615",
+    "arrTime": "1644",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1626",
+    "arrTime": "1648",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1635",
+    "arrTime": "1704",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1646",
+    "arrTime": "1708",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1655",
+    "arrTime": "1724",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1706",
+    "arrTime": "1728",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1715",
+    "arrTime": "1746",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1728",
+    "arrTime": "1750",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1735",
+    "arrTime": "1806",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1753",
+    "arrTime": "1815",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1813",
+    "arrTime": "1835",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1805",
+    "arrTime": "1836",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1833",
+    "arrTime": "1854",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1835",
+    "arrTime": "1904",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1853",
+    "arrTime": "1914",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1904",
+    "arrTime": "1932",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1923",
+    "arrTime": "1943",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1932",
+    "arrTime": "1957",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "1951",
+    "arrTime": "2009",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2002",
+    "arrTime": "2025",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2018",
+    "arrTime": "2036",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2032",
+    "arrTime": "2055",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2048",
+    "arrTime": "2106",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2101",
+    "arrTime": "2121",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2116",
+    "arrTime": "2133",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "2146",
+    "arrTime": "2203",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0546",
+    "arrTime": "0555",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0614",
+    "arrTime": "0623",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0656",
+    "arrTime": "0705",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0711",
+    "arrTime": "0720",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0727",
+    "arrTime": "0736",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0743",
+    "arrTime": "0753",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0802",
+    "arrTime": "0812",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0819",
+    "arrTime": "0829",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0835",
+    "arrTime": "0846",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0852",
+    "arrTime": "0902",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0908",
+    "arrTime": "0917",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0923",
+    "arrTime": "0933",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0939",
+    "arrTime": "0951",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "0957",
+    "arrTime": "1006",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1011",
+    "arrTime": "1021",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1028",
+    "arrTime": "1040",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1102",
+    "arrTime": "1112",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1138",
+    "arrTime": "1152",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1200",
+    "arrTime": "1209",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1215",
+    "arrTime": "1225",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1231",
+    "arrTime": "1240",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1305",
+    "arrTime": "1315",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1321",
+    "arrTime": "1334",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1343",
+    "arrTime": "1356",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1407",
+    "arrTime": "1416",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1421",
+    "arrTime": "1435",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1442",
+    "arrTime": "1454",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1504",
+    "arrTime": "1513",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1520",
+    "arrTime": "1533",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1542",
+    "arrTime": "1553",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1616",
+    "arrTime": "1625",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1630",
+    "arrTime": "1640",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1647",
+    "arrTime": "1657",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1704",
+    "arrTime": "1713",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1735",
+    "arrTime": "1744",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1749",
+    "arrTime": "1800",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1806",
+    "arrTime": "1815",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1822",
+    "arrTime": "1836",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1848",
+    "arrTime": "1858",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1922",
+    "arrTime": "1932",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "1958",
+    "arrTime": "2007",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2013",
+    "arrTime": "2022",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2030",
+    "arrTime": "2040",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2048",
+    "arrTime": "2101",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2108",
+    "arrTime": "2118",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2138",
+    "arrTime": "2148",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2156",
+    "arrTime": "2208",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2235",
+    "arrTime": "2245",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2255",
+    "arrTime": "2304",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2314",
+    "arrTime": "2323",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  },
+  {
+    "depTime": "2340",
+    "arrTime": "2350",
+    "operator": "JR",
+    "destination": "Sendai Stn."
+  }
+]
