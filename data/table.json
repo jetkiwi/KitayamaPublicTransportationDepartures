@@ -36,6 +36,83 @@
     "arrTime": "1027"
   },
   {
+    "depTime": "0622",
+    "arrTime": "0642",
+    "via": "S990",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0706",
+    "arrTime": "0727",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0708",
+    "arrTime": "0736",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0724",
+    "arrTime": "0748",
+    "via": "S990",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0735",
+    "arrTime": "0803",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0756",
+    "arrTime": "0818",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0751",
+    "arrTime": "0821",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0804",
+    "arrTime": "0834",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0821",
+    "arrTime": "0843",
+    "via": "999-S899",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0814",
+    "arrTime": "0844",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
+    "depTime": "0834",
+    "arrTime": "0903",
+    "via": "899-S999",
+    "destination": "Sendai Stn.",
+    "operator": "City"
+  },
+  {
     "depTime": "0846",
     "arrTime": "0908",
     "via": "999-S899",
