@@ -8,7 +8,7 @@ $(document).ready(function () {
   ctx = c.getContext("2d");
 
   $.get("./data/table.json", function (data) {
-    tableData = $.parseJSON(data);
+    tableData = data;
   });
 
   // This is from stackoverflow
